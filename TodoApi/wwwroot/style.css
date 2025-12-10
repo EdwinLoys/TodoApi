@@ -1,0 +1,94 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f5f7fa;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    width: 450px;
+    margin-top: 40px;
+}
+
+.title {
+    text-align: center;
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.input-card {
+    background: white;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    margin-bottom: 30px;
+}
+
+    .input-card h2 {
+        margin-top: 0;
+    }
+
+    .input-card input,
+    .input-card textarea {
+        width: 100%;
+        padding: 10px;
+        margin-top: 8px;
+        margin-bottom: 15px;
+        border: 1px solid #ccc;
+        border-radius: 6px;
+    }
+
+    .input-card button {
+        width: 100%;
+        padding: 12px;
+        background: #1e90ff;
+        border: none;
+        border-radius: 6px;
+        color: white;
+        font-size: 16px;
+        cursor: pointer;
+    }
+
+        .input-card button:hover {
+            background: #187bcd;
+        }
+
+.section-title {
+    margin-bottom: 15px;
+}
+
+.task-list .task {
+    background: white;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+    margin-bottom: 15px;
+    position: relative;
+}
+
+.task h3 {
+    margin: 0;
+}
+
+.task p {
+    margin-top: 8px;
+    color: #555;
+}
+
+.done-btn {
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+    padding: 8px 14px;
+    background: #28a745;
+    border: none;
+    border-radius: 6px;
+    color: white;
+    cursor: pointer;
+}
+
+    .done-btn:hover {
+        background: #1f8638;
+    }
