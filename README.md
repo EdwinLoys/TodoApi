@@ -15,4 +15,4 @@ Dependency Injection for TaskService
 CORS enabled for local frontend
 Swagger UI enabled for endpoint testing
 Static file hosting for SPA via wwwroot/
-<img width="548" height="401" alt="porject screen short" src="https://github.com/user-attachments/assets/ba1c1ac7-cc92-461f-b095-ec85ffca5a12" />
+
