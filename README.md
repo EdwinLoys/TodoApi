@@ -38,3 +38,8 @@ Mark task as done
 ✔ Clean HTML/CSS UI
 
 ✔ Uses Fetch API to communicate with the backend
+
+📂 Project Structure
+
+
+<img width="200" height="261" alt="Screenshot 2025-12-11 104211" src="https://github.com/user-attachments/assets/584bd611-e0ee-442b-951f-1e45f4ae4253" />
