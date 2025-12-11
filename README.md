@@ -1,18 +1,7 @@
 # TodoApp
 
-🚀 Features
-Backend (C# .NET 8 Web API)
+Task Manager
+ASP.NET Core 8 • SQL Server • EF Core • Vanilla JavaScript SPA
+<p align="center"> <img src="https://img.shields.io/badge/.NET-8.0-blueviolet?logo=dotnet" /> <img src="https://img.shields.io/badge/SQL%20Server-EF%20Core-red?logo=microsoftsqlserver" /> <img src="https://img.shields.io/badge/Frontend-Vanilla%20JS-yellow?logo=javascript" /> <img src="https://img.shields.io/badge/Swagger-Enabled-brightgreen?logo=swagger" /> <img src="https://img.shields.io/badge/Platform-Web-blue" /> </p>
 
-CRUD-like task operations using a clean service layer
-
-Endpoints:
-
-GET /api/tasks – fetch the latest 5 tasks
-POST /api/tasks – add a new task
-PUT /api/tasks/{id}/done – mark task as completed
-Entity Framework Core + SQL Server (AppDbContext)
-Dependency Injection for TaskService
-CORS enabled for local frontend
-Swagger UI enabled for endpoint testing
-Static file hosting for SPA via wwwroot/
-
+A clean and minimal full-stack Task Manager featuring an ASP.NET Core 8 Web API backend and a lightweight SPA frontend served directly from wwwroot/.
