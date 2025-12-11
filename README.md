@@ -96,8 +96,6 @@ Example: POST request
 
 📦 Planned Improvements
 
-📝 Edit & delete tasks
-
 🎨 UI redesign (modern layout)
 
 🐳 Docker support
