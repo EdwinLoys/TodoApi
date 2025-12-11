@@ -48,7 +48,7 @@ Mark task as done
 
 1️⃣ Clone the repository
 
-git clone https://github.com/yourusername/TaskManager.git
+git clone https://github.com/EdwinLoys/TaskManager.git
 cd TaskManager
 
 2️⃣ Configure SQL Server
